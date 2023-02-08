@@ -1,0 +1,22 @@
+{
+  "name": "@thefortnight/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheFortnight/ajs.git"
+  },
+  "keywords": [
+    "ajs"
+  ],
+  "author": "TheFortnight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheFortnight/ajs/issues"
+  },
+  "homepage": "https://github.com/TheFortnight/ajs#readme"
+}
